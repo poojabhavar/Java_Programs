@@ -1,0 +1,11 @@
+1. array sorting using bubble sorting
+2. max and min element in array
+3. pattern 1
+4.pattern 2
+5. pattern 3
+6 prime number from array
+7. prime number
+8. remove duplicate element from array
+10. reverse string
+11. swapping without third variable
+12. sorting string array
